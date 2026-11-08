@@ -1,0 +1,16 @@
+# Obsidian workspace state (machine-specific, changes constantly)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.obsidian/graph.json
+.obsidian/hotkeys.json
+
+# Community plugins are installed per-machine; see 30-reference/Recommended plugins
+.obsidian/plugins/
+.obsidian/themes/
+.obsidian/community-plugins.json
+.obsidian/core-plugins-migration.json
+
+# Obsidian trash + OS noise
+.trash/
+.DS_Store
